@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You, Happy Learning </h1>
-   <h1> See You Again </h1>
+   <h1> SANG WOON'S CD/CD PROJECT </h1>
+   <h1> Don't dream, Be it </h1>
   
 </form>
